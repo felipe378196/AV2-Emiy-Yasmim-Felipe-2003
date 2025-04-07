@@ -10,13 +10,23 @@ h2{
 p{
     color: white;
 }
-img{
-    
-}
-
 .container{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.backImg{
+background-image: url('https://images.virgula.me/2010/12/20/223936.jpg');
+  background-size: cover;
+  background-position: auto;
+  background-repeat: no-repeat;
+}
+
+div4{
+    color:black
+}
+h4{
+    color: black;
 }
