@@ -2,13 +2,16 @@ body{
    background-color: black;
 }
 h1{
-    color:  white;
+    color:  rgb(129, 180, 33);
 }
 h2{
-    color: white;
+    color:orange;
 }  
 p{
-    color: white;
+    color: rgb(18, 61, 179);
+}
+p1{
+    color: cadetblue;
 }
 .container{
     display: flex;
@@ -28,5 +31,7 @@ div4{
     color:black
 }
 h4{
-    color: black;
+    color:red;
+    width: 500px;
+    height: 250px;
 }
